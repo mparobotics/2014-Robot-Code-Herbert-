@@ -1,17 +1,8 @@
-2014RobotCode
+2014 Robot Code
+Code Name: "Herbert"
 =============
+Robot Code for FRC game Aerial Assist (2014)
 
-2014 Robot Code for FRC Team 3926
+This code is written in LabView
 
-This code was written by Riley Lannon with help from:
-
-1.
-2.
-3.
-4.
-5.
-6.
-
-Thank you to Alex Grabanski (Gban) for contributing help
-
-Code written in WindRiver, C++, for FRC cRio
+Written by Brendan C.  Boyle
